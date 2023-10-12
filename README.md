@@ -12,11 +12,16 @@
 如果你是M系列芯片Mac用户，直接输入
 cd ~/Downloads
 <img width="697" alt="Screenshot 2023-10-11 at 12 02 17 AM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/2ffb9e45-ec36-49d3-943a-c9a829331ecd">
+
 显示无误后输入
 python find-lyric.py
+
 <img width="653" alt="Screenshot 2023-10-11 at 8 23 36 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/2ab2d5b4-e840-4398-a36b-33dda550ca07">
+
 然后根据提示粘贴链接
 <img width="1032" alt="Screenshot 2023-10-11 at 8 24 04 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/0195617b-e28e-4203-ad42-2142944f933c">
+
 在下载目录能够找到与id 同名的歌词文件，你可以右键用文本编辑器打开它
 <img width="773" alt="Screenshot 2023-10-11 at 8 25 22 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/52808d2d-4d5a-4c95-8bd4-73ddc5f8c7cb">
+
 结束后直接关闭窗口或者<kbd>Ctrl</kbd>+<kbd>C</kbd>来关闭它
