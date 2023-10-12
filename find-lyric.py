@@ -28,14 +28,18 @@ def save_lyric_to_lrc(song_id, filename):
     with open(filename, 'w', encoding='utf-8') as file:
         file.write(lyric)
 
+
 # 使用
-user_input = input("请输入歌曲ID：")
-url = user_input
-match = re.search(r'song\?id=(\d+)', url)
-if match:
-    song_id = match.group(1)
-    print("Song ID:", song_id)
-else:
-    print("No ID found in the URL./没找到歌曲！")
-filename = match.group(1) + ".lrc"
-save_lyric_to_lrc(song_id, filename)
+while True:
+    user_input = input("请输入歌曲链接/link：")
+    url = user_input
+    match = re.search(r'song\?id=(\d+)', url)
+    if match:
+        song_id = match.group(1)
+        print("Song ID:", song_id)
+    else:
+        print("No ID found in the URL./没找到歌曲！")
+    filename = match.group(1) + ".lrc"
+    save_lyric_to_lrc(song_id, filename)
+
+
