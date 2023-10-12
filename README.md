@@ -21,7 +21,8 @@ python find-lyric.py
 然后根据提示粘贴链接
 <img width="1032" alt="Screenshot 2023-10-11 at 8 24 04 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/0195617b-e28e-4203-ad42-2142944f933c">
 
-在下载目录能够找到与id 同名的歌词文件，你可以右键用文本编辑器打开它
+在下载目录能够找到与id同名的歌词文件，你可以右键用文本编辑器打开
 <img width="773" alt="Screenshot 2023-10-11 at 8 25 22 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/52808d2d-4d5a-4c95-8bd4-73ddc5f8c7cb">
 
-结束后直接关闭窗口或者<kbd>Ctrl</kbd>+<kbd>C</kbd>来关闭它
+结束后直接关闭窗口或者先用<kbd>Ctrl</kbd>+<kbd>C</kbd>停止运行后再关闭终端
+<img width="653" alt="Screenshot 2023-10-11 at 8 29 55 PM" src="https://github.com/EdwinZhanCN/find-Netease-Lyric/assets/108310800/afae6e87-c34a-4518-ba31-2b81918f04b7">
